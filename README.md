@@ -23,3 +23,6 @@ Victor Manuel Cataño Nuñez
 # Tecnologias 
 Estaremos utilizando las tecnoligia y dispostivos 
 mas utilizados y novedosod en la metorologia actual.
+# Estado del proyecto 
+Prototipo inicial
+
